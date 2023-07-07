@@ -1,0 +1,4 @@
+Este curso ha reforzado el conocimiento preexistente sobre las técnicas, sintáxis y estructuras necesarias para poder realizar
+programas en el lenguaje C.
+Este curso permite aprender nuevo conocimiento sobre el lenguaje mediante explicaciones y prácticas que hacen un uso dinámico
+de las herramientas disponibles.
